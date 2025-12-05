@@ -32,8 +32,6 @@ The Citerra Platform organizes the full academic workflow into a single, coheren
 • Document-centered design - Each document acts as its own workspace, holding structure, references, and AI context.  
 • Secure cloud environment - Papers, sources, and metadata are stored safely within the Citerra Cloud.
 
-Learn more: https://docs.citerra.de
-
 ---
 
 ## Links
